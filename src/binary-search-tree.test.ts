@@ -23,7 +23,8 @@ describe("Binary Searc Tree", () => {
         x.add(80);
         x.add(120);
         x.add(130);
-        expect(x.has(180)).toBe(true);
+        expect(x.has(180)).toBe(false);
+        expect(x.has(120)).toBe(true);
     });
 
     it("getMin function returns min value", () => {
