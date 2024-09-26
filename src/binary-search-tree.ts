@@ -73,14 +73,10 @@ export class BinarySearchTree {
 
         while (temp) {
             if (temp.val > value) {
-                if (temp.left) {
-                    temp = temp.left;
-                }
+                temp = temp.left;
             }
             else if (temp.val < value) {
-                if (temp.right) {
-                    temp = temp.right;
-                }
+                temp = temp.right;
             } else {
                 return true;
             }
