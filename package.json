@@ -1,6 +1,6 @@
 {
   "name": "basic-binary-search-tree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic binary search tree",
   "repository": {
     "url": "https://github.com/BusraTemizyurek/binary-search-tree"
@@ -19,5 +19,23 @@
     "jest": "^29.7.0",
     "ts-jest": "^29.2.5",
     "typescript": "^5.6.2"
-  }
+  },
+  "keywords": [
+    "binary search tree",
+    "BST",
+    "tree",
+    "data structure",
+    "binary tree",
+    "search",
+    "has",
+    "inorder traversal",
+    "remove node",
+    "typescript",
+    "javascript",
+    "nodejs",
+    "algorithm",
+    "min",
+    "max",
+    "npm"
+  ]
 }
