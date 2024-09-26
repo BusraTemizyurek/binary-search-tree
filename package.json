@@ -2,6 +2,9 @@
   "name": "basic-binary-search-tree",
   "version": "1.0.0",
   "description": "Basic binary search tree",
+  "repository": {
+    "url": "https://github.com/BusraTemizyurek/binary-search-tree"
+  },
   "main": "./lib/index.js",
   "scripts": {
     "test": "jest",
