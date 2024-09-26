@@ -57,7 +57,7 @@ describe("Binary Search Tree", () => {
         expect(y.getMax()).toBe(undefined);
     });
 
-    it("remove function removes the give item", () => {
+    it("remove function removes the given item", () => {
         const x = new BinarySearchTree();
         x.add(100);
         x.add(75);
