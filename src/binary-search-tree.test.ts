@@ -1,7 +1,7 @@
 import { BinarySearchTree } from "./binary-search-tree";
 import { BstNode } from "./bst-node";
 
-describe("Binary Searc Tree", () => {
+describe("Binary Search Tree", () => {
     it("add function adds item to tree", () => {
         const x = new BinarySearchTree();
         x.add(100);
