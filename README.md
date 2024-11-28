@@ -1,3 +1,11 @@
+# 🚚 Moved 🚚
+
+This repo has been moved to https://github.com/BusraTemizyurek/data-structures/tree/main/packages/basic-binary-search-tree
+
+---
+---
+
+
 # Binary Search Tree (BST)
 
 This package provides a TypeScript implementation of a Binary Search Tree (BST). A BST is a data structure where each node has at most two children referred to as left and right. The tree maintains the property that for any given node, its left children contain values less than the node's value, and its right children contain values greater than the node's value. This makes searching, insertion, and deletion operations efficient, typically with time complexity of O(log n).
